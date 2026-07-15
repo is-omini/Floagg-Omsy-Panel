@@ -276,7 +276,7 @@
 
 .kit-block {
 	border: solid 1px var(--color-dark2);
-	margin: calc(var(--size-base) * 6) calc(var(--size-base) * 4);
+	margin: calc(var(--size-base) * 4);
 	padding: calc(var(--size-base) * 3) calc(var(--size-base) * 5);
 }
 .kit-block .head {
